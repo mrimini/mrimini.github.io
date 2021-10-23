@@ -1,3 +1,3 @@
-# mrimini.github.io
- MRIMini website
- Coming soon...
+# https://www.mrimini.com
+## MRIMini website
+Coming soon...
